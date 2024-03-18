@@ -2,7 +2,6 @@
 Slides and notes for DevOpsDays Krakow 2024 Presentation
 ---
 
-
 Thanks for taking interest in my presentation today!
 
 I hope you didn't got very disappointed with my github :)
@@ -30,3 +29,5 @@ _(none of the links is sponsored in any way!)_
 My LinkedIN: https://www.linkedin.com/in/pedro-ivo-raimundo/
 
 Muito obrigado! :)
+
+![dodkrk_horizontal](https://github.com/pedroraimundo/devopsdays-krakow-2024/assets/24276802/4910c6ce-c77c-441a-9d40-a631847241ea)
