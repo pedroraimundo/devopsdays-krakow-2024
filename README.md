@@ -12,6 +12,8 @@ I hope you didn't got very disappointed with my github :)
 
 _(none of the links is sponsored in any way!)_
 
+*OpenSource: From User to Contributor - Marcin Lewandowski (Ignite Talk slides, DevOpsDays Krakow 2024) -> [Github slides](https://lewandom.github.io/dodkrk2024_ignite_opensource_contribution/)
+
 *Human Motivation:*  Drive – Daniel H. Pink (book/audiobook) -> [Link to Audible](https://www.audible.com/pd/Drive-Audiobook/B002ZF14MG)
 
 *Interpersonal skills:* How to Win Friends and Influence People – Dale Carnegie (book/audiobook) -> [Link to Audible](https://www.audible.com/pd/How-to-Win-Friends-Influence-People-Audiobook/B002V5BV96)
